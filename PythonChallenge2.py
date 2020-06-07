@@ -10,4 +10,4 @@ code = code[6:]
 r = Counter(code).most_common()
 print(r[-10:])
 
-# resposta = equality
+# Resposta: equality
